@@ -4,4 +4,6 @@
 ## 下載與安裝
 1. 官網-[簡體連結](https://www.uipath.com.cn/)
 2. 下載:UiPathStudioCommunity並進行安裝
-3. 
+3. 建立新的流程，使用C#
+   a. 活動-新增流程圖
+   
