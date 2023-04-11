@@ -23,5 +23,11 @@
    + [UiPath技術論壇](https://forum.uipath.com)
    + 範例檔案-[下載](https://forum.uipath.com/t/how-to-manipulate-a-part-of-string-split-trim-substring-replace-remove-left-right/140180)
 ## 3.1 Excel基礎篇
-1. 建立新流
+1. 範例下載連結:[下載](https://drive.google.com/file/d/1jT-lUgZmvTxw0JgCyEO90qeNb8ElbOvd/view?usp=share_link)
+   + Read & Write
+   + For each row
+   + Hotkey / Selector 操作
+## 3.2 Excel進階篇
+1. 無範例下載，主要設透過設定檔來改變大機器人產生的邏輯。
    
+## 9.3 使用API實現商工登記查詢自動化
