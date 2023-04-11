@@ -20,5 +20,8 @@
    + 用Write Line輸出"變數X="+X+X+X
 ## 2.2 字串的應用
 1. 建立新流程
-   + 
+   + [UiPath技術論壇](https://forum.uipath.com)
+   + 範例檔案-[下載](https://forum.uipath.com/t/how-to-manipulate-a-part-of-string-split-trim-substring-replace-remove-left-right/140180)
+## 3.1 Excel基礎篇
+1. 建立新流
    
